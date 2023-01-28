@@ -1,0 +1,6 @@
+pandas
+requests
+Jinja2
+plotly
+nbformat
+python-dotenv
