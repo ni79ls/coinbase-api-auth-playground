@@ -4,3 +4,5 @@ In case you want to get started as a crypto investor and you want to take matter
 
 - How to connect to the authorized coinbase.com REST API via Python
 - How to load your personal acount and order data from Coinbase into Pandas
+
+The Medium article for this notebook is [here](https://medium.com/coinmonks/how-to-authenticate-with-your-coinbase-cloud-account-via-rest-api-in-python-b483582c76c5)
